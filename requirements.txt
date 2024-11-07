@@ -1,0 +1,6 @@
+gradio
+python-docx
+deep-translator
+httpcore
+googletrans
+lxml
